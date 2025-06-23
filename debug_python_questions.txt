@@ -1,0 +1,126 @@
+{
+  "questions": [
+    "Define Artificial Intelligence.",
+    "Who is considered the father of AI?",
+    "What was the Logic Theorist capable of doing?",
+    "What is backpropagation?",
+    "Name one area where AI is being applied.",
+    "What are the risks associated with AI?",
+    "List one key benefit of AI.",
+    "Define an agent in AI.",
+    "List properties of an environment.",
+    "What is a problem space in AI?",
+    "Explain the Dartmouth Conference's significance in AI history.",
+    "Describe one application of AI in the healthcare industry.",
+    "Explain one ethical consideration in the development of AI systems.",
+    "Describe the difference between Simple Reflex Agent and Model Based Agent.",
+    "Explain the core concept behind the Water Jug Problem.",
+    "Discuss the impact of Big Data on the development of AI.",
+    "Describe the different types of hill climbing algorithms.",
+    "Explain how AI can be used in cyber security.",
+    "Explain the steps involved in A* search algorithm.",
+    "Explain the minimax algorithm and its purpose."
+  ],
+  "mcqs": [
+    {
+      "question": "According to John McCarthy, what is Artificial Intelligence?",
+      "options": [
+        "A. The study of how to make computers do things, which, at the moment, people do better",
+        "B. The simulation of human intelligence in machines",
+        "C. The science and engineering of making intelligent machines, especially intelligent computer programs",
+        "D. A way of making a computer think exactly like humans"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "The term 'Artificial Intelligence' was coined at which conference?",
+      "options": [
+        "A. Logic Theorist Conference",
+        "B. IBM Watson Conference",
+        "C. Dartmouth Conference",
+        "D. AI Winter Conference"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is NOT a listed application of AI?",
+      "options": [
+        "A. Healthcare",
+        "B. Finance and Banking",
+        "C. Retail and E-commerce",
+        "D. Culinary Arts"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "What is a major ethical consideration regarding AI systems?",
+      "options": [
+        "A. Dependence on AI systems",
+        "B. Bias and Discrimination",
+        "C. Security and Privacy Risks",
+        "D. Job Displacement and Economic Impact"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which of the following is a key benefit of AI?",
+      "options": [
+        "A. Increased Job Displacement",
+        "B. Enhanced Accessibility",
+        "C. Reduced Data Analysis",
+        "D. Decreased Automation"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "What does the 'P' in PEAS representation stand for?",
+      "options": [
+        "A. Process",
+        "B. Performance Measure",
+        "C. Programming",
+        "D. Prediction"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "In the context of AI, what is the 'Transition Model' related to?",
+      "options": [
+        "A. Agent's Goal",
+        "B. Environment's state",
+        "C. Reward System",
+        "D. How the environment changes based on the agent's actions"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Which element represents the agent's current sensory input from the environment?",
+      "options": [
+        "A. Percept",
+        "B. Action",
+        "C. Goal",
+        "D. Environment"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which of the following techniques represents knowledge using production rules?",
+      "options": [
+        "A. Semantic Networks",
+        "B. Rule-based Systems",
+        "C. Neural Networks",
+        "D. Knowledge Graphs"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "What type of reasoning derives logical conclusions from available knowledge, facts, and beliefs?",
+      "options": [
+        "A. Learning",
+        "B. Reasoning",
+        "C. Planning",
+        "D. Sensing"
+      ],
+      "answer": "B"
+    }
+  ]
+}
